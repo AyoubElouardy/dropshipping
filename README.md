@@ -2,66 +2,137 @@
 <!doctype html>
 <html lang="es">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Cómo empezar Dropshipping con $15 (Shopify + AliExpress)</title>
-<meta name="description" content="Guía paso a paso para empezar dropshipping con solo $15 utilizando Shopify (prueba) y comprando productos en AliExpress. Consejos prácticos y plan de acción." />
-<style>
-:root{
---bg:#ffffff;
---card:#f0fdf4;
---text:#064e3b;
---muted:#047857;
---accent:#10b981;
---good:#34d399;
---warn:#f59e0b;
---radius:14px;
---max:900px;
-}
-*{box-sizing:border-box}
-html,body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;background:var(--bg);color:var(--text);line-height:1.6}
-.container{max-width:var(--max);margin:28px auto;padding:18px}
-header{padding:20px;border-radius:12px;background:linear-gradient(180deg,rgba(16,185,129,.1),rgba(16,185,129,.05));border:1px solid rgba(16,185,129,.2)}
-h1{margin:6px 0;font-size:1.6rem}
-p.lead{color:var(--muted);margin-top:0}
-.card{background:var(--card);padding:16px;border-radius:12px;border:1px solid rgba(16,185,129,.2);box-shadow:0 4px 12px rgba(0,0,0,.05);margin-top:14px}
-h2{color:var(--accent);margin-bottom:8px}
-ul{padding-left:18px}
-pre{background:#ecfdf5;padding:12px;border-radius:8px;overflow:auto;color:#064e3b}
-.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-.badge{display:inline-block;padding:6px 10px;border-radius:999px;background:rgba(16,185,129,.1);color:var(--accent);font-weight:700}
-footer{margin-top:18px;padding:12px;text-align:center;color:var(--muted);font-size:.9rem}
-@media (max-width:760px){.grid{grid-template-columns:1fr}}
-</style>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cómo empezar Dropshipping con $15 (Shopify + AliExpress)</title>
+  <meta name="description" content="Guía paso a paso para empezar dropshipping con solo $15 utilizando Shopify (prueba) y comprando productos en AliExpress. Consejos prácticos y plan de acción." />
+  <style>
+    :root{
+      --bg:#ffffff;
+      --card:#f0fdf4;
+      --text:#064e3b;
+      --muted:#047857;
+      --accent:#10b981;
+      --good:#34d399;
+      --warn:#f59e0b;
+      --radius:14px;
+      --max:900px;
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;background:var(--bg);color:var(--text);line-height:1.6}
+    .container{max-width:var(--max);margin:28px auto;padding:18px}
+    header{padding:20px;border-radius:12px;background:linear-gradient(180deg,rgba(16,185,129,.1),rgba(16,185,129,.05));border:1px solid rgba(16,185,129,.2)}
+    h1{margin:6px 0;font-size:1.6rem}
+    p.lead{color:var(--muted);margin-top:0}
+    .card{background:var(--card);padding:16px;border-radius:12px;border:1px solid rgba(16,185,129,.2);box-shadow:0 4px 12px rgba(0,0,0,.05);margin-top:14px}
+    h2{color:var(--accent);margin-bottom:8px}
+    ul{padding-left:18px}
+    pre{background:#ecfdf5;padding:12px;border-radius:8px;overflow:auto;color:#064e3b}
+    .grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+    .badge{display:inline-block;padding:6px 10px;border-radius:999px;background:rgba(16,185,129,.1);color:var(--accent);font-weight:700}
+    footer{margin-top:18px;padding:12px;text-align:center;color:var(--muted);font-size:.9rem}
+    @media (max-width:760px){.grid{grid-template-columns:1fr}}
+  </style>
 </head>
 <body>
-<div class="container">
-<header>
-<div class="badge">Step-by-step</div>
-<h1>Cómo empezar dropshipping con $15 usando Shopify y AliExpress</h1>
-<p class="lead">Esta es una guía práctica para empezar con muy poco dinero. Incluye un plan de acción, ejemplo de presupuesto, productos de bajo coste y ideas para conseguir las primeras ventas sin invertir en anuncios.</p>
-</header>
+  <div class="container">
+    <header>
+      <div class="badge">Step-by-step</div>
+      <h1>Cómo empezar dropshipping con $15 usando Shopify y AliExpress</h1>
+      <p class="lead">Esta es una guía práctica para empezar con muy poco dinero. Incluye un plan de acción, ejemplo de presupuesto, productos de bajo coste y ideas para conseguir las primeras ventas sin invertir en anuncios.</p>
+    </header>
 
+    <section class="card">
+      <h2>1) Antes de empezar (advertencias)</h2>
+      <ul>
+        <li>El dropshipping tiene riesgos: márgenes bajos, tiempos de envío largos y atención al cliente. Infórmate y actúa con transparencia.</li>
+        <li>Si eres menor, pide permiso a tus padres o tutores para manejar pagos y cuentas comerciales.</li>
+        <li>Con $15 no podrás pagar anuncios serios: este plan se basa en aprovechar pruebas gratuitas, vender productos muy baratos y usar marketing orgánico.</li>
+      </ul>
+    </section>
 
-<section class="card">
-<h2>1) Antes de empezar (advertencias)</h2>
-<ul>
-<li>El dropshipping tiene riesgos: márgenes bajos, tiempos de envío largos y atención al cliente. Infórmate y actúa con transparencia.</li>
-<li>Si eres menor, pide permiso a tus padres o tutores para manejar pagos y cuentas comerciales.</li>
-<li>Con $15 no podrás pagar anuncios serios: este plan se basa en aprovechar pruebas gratuitas, vender productos muy baratos y usar marketing orgánico.</li>
-</ul>
-</section>
+    <section class="card">
+      <h2>2) Presupuesto ejemplo con $15</h2>
+      <p>Distribuye el dinero así:</p>
+      <ul>
+        <li><strong>$0–$1</strong>: dominio (opcional). Recomiendo mantener <em>index.html</em> en GitHub Pages para ahorrar.</li>
+        <li><strong>$1–$2</strong>: costos sencillos (tarjeta virtual, pequeñas comisiones) — opcional.</li>
+        <li><strong>$0</strong>: Shopify: usa la prueba gratuita (normalmente 3–7 días) para montar la tienda sin coste inicial.</li>
+        <li><strong>$10–$12</strong>: compra 1–3 unidades baratas en AliExpress como “samples” o primeros productos (ej.: gadgets, accesorios, stickers).</li>
+        <li><strong>$3–$5</strong>: reserva para enviar un producto de muestra o imprevistos.</li>
+      </ul>
+      <p class="lead">Objetivo: probar que puedes listar productos y cerrar la primera venta sin invertir en ads.</p>
+    </section>
 
+    <section class="card">
+      <h2>3) Paso a paso — configuración rápida</h2>
+      <ol>
+        <li><strong>Cuenta de Shopify:</strong> abre una cuenta y activa la prueba gratuita. No pagues el plan hasta tener ventas recurrentes.</li>
+        <li><strong>Theme gratuito:</strong> elige un tema limpio (Dawn u otro gratuito) y personalízalo con tu logo y textos claros.</li>
+        <li><strong>Busca productos en AliExpress:</strong> filtra por precio bajo, buena puntuación y buen historial del vendedor. Prioriza <em>ePacket</em> o envío con tracking.</li>
+        <li><strong>Lista 3 productos:</strong> imágenes claras, títulos con beneficio, precio de venta (ej.: si compras a $3, vende a $12–15 para cubrir comisiones y ganar algo).</li>
+        <li><strong>Método de pago:</strong> configura Stripe o Shopify Payments si está disponible en tu país (si eres menor, necesitarás la ayuda de un adulto).</li>
+        <li><strong>Políticas:</strong> añade páginas de política de envíos, devoluciones y contacto. Sé honesto con tiempos de envío (15–40 días si es AliExpress).</li>
+      </ol>
+    </section>
 
-<section class="card">
-<h2>2) Presupuesto ejemplo con $15</h2>
-<p>Distribuye el dinero así:</p>
-<ul>
-<li><strong>$0–$1</strong>: dominio (opcional). Recomiendo mantener <em>index.html</em> en GitHub Pages para ahorrar.</li>
-<li><strong>$1–$2</strong>: costos sencillos (tarjeta virtual, pequeñas comisiones) — opcional.</li>
-<li><strong>$0</strong>: Shopify: usa la prueba gratuita (normalmente 3–7 días) para montar la tienda sin coste inicial.</li>
-<li><strong>$10–$12</strong>: compra 1–3 unidades baratas en AliExpress como “samples” o primeros productos (ej.: gadgets, accesorios, stickers).</li>
-<li><strong>$3–$5</strong>: reserva para enviar un producto de muestra o imprevistos.</li>
-</ul>
-<p class="lead">Objetivo: probar que puedes listar productos y cerrar la primera venta sin invertir en ads.</p>
-</section>
+    <section class="card">
+      <h2>4) Elegir productos con $15</h2>
+      <p>Busca:</p>
+      <ul>
+        <li>Productos muy baratos (<strong>$1–$6</strong>) para mantener el inventario mínimo.</li>
+        <li>Artículos no frágiles, de bajo peso (evitan costos altos de envío).</li>
+        <li>Baja competencia y claro valor (ej.: organizadores pequeños, accesorios para móvil, accesorios de moda baratos).</li>
+      </ul>
+      <p>Consejo: compra 1 unidad como muestra si puedes. Esto te ayuda a comprobar calidad y tiempos reales.</p>
+    </section>
+
+    <section class="card">
+      <h2>5) Marketing sin gastar (orgánico)</h2>
+      <ul>
+        <li><strong>TikTok/Reels:</strong> crea videos mostrando el uso del producto, unboxing o comparativas. Usa tendencias y ganchos en los primeros 2 segundos.</li>
+        <li><strong>Instagram & Facebook:</strong> publica fotos y usa historias para dirigir tráfico a la tienda.</li>
+        <li><strong>Grupos y chats:</strong> comparte en grupos locales (Marketplace, WhatsApp) si el producto aplica.</li>
+        <li><strong>Ofertas iniciales:</strong> código de descuento por tiempo limitado para generar urgencia.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>6) Cálculo simple de precio y margen</h2>
+      <pre>Ejemplo:
+Costo AliExpress (incl. envío): $3.00
+Precio venta en tu tienda: $15.00
+Comisión de Shopify/TPV y tarifas: ~10% ($1.50)
+Costo total: $3.00 + $1.50 = $4.50
+Ganancia bruta: $15 - $4.50 = $10.50
+(Recuerda posibles devoluciones y tiempos de envío)</pre>
+      <p class="lead">Con esto puedes ver que vender productos baratos con buen markup es posible; la clave es volumen y control de costos.</p>
+    </section>
+
+    <section class="card">
+      <h2>7) Atención al cliente y devoluciones</h2>
+      <ul>
+        <li>Responde rápido: claridad en las respuestas evita que el cliente pida reembolso.</li>
+        <li>Ofrece tracking y actualizaciones: enlaza el número de seguimiento una vez despachado.</li>
+        <li>Si un producto se pierde o llega mal, ofrece reembolso parcial o reemplazo; la reputación importa.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>8) Qué hacer después de la primera venta</h2>
+      <ul>
+        <li>Mide: ¿qué canal trajo al cliente? ¿qué anuncio o video funcionó?</li>
+        <li>Reinversión: usa parte de la ganancia para comprar más samples o pagar un pequeño impulso en redes sociales.</li>
+        <li>Escala: añade variantes de producto y mejora descripciones e imágenes.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>9) Riesgos y recomendaciones finales</h2>
+      <ul>
+        <li>Los plazos largos de AliExpress pueden causar quejas; informa siempre a tus clientes.</li>
+        <li>Evita productos con problemas legales (marcas registradas, imitaciones, productos peligrosos).</li>
+        <li>Si planificas crecer, considera mudarte a proveedores con tiempos más rápidos o usar warehouses locales.</li>
+      </ul>
+    </section>
+    
