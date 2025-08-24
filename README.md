@@ -151,6 +151,16 @@ Ganancia bruta: $15 - $4.50 = $10.50
     <footer>
       <p>Guía creada para ayudar a emprendedores. ¡Empieza pequeño, sé constante y mejora con cada venta!</p>
     </footer>
+
+    <!-- Default Statcounter code for thedropshipping http://thedropshipping.pro/ -->
+    <script type="text/javascript">
+      var sc_project=13161412; 
+      var sc_invisible=1; 
+      var sc_security="36b08651"; 
+    </script>
+    <script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async></script>
+    <noscript><div class="statcounter"><a title="Web Analytics" href="https://statcounter.com/" target="_blank"><img class="statcounter" src="https://c.statcounter.com/13161412/0/36b08651/1/" alt="Web Analytics" referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+    <!-- End of Statcounter Code -->
   </div>
 </body>
 </html>
